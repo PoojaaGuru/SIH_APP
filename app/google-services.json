@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842607935763",
+    "firebase_url": "https://sihapp-26f03.firebaseio.com",
+    "project_id": "sihapp-26f03",
+    "storage_bucket": "sihapp-26f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842607935763:android:6c3005a2e3d7fea4",
+        "android_client_info": {
+          "package_name": "com.example.pooja.sih_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842607935763-cqgd852r6ps1lg85n6eli5jo4vlqef23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pooja.sih_app",
+            "certificate_hash": "d40fed782e1a31549f13070b6e5cbb1a4f8bc75a"
+          }
+        },
+        {
+          "client_id": "842607935763-uh6rvqomikh9sesvetbobkcb7udog5oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcKqMjbsp1fXIlICfFcfEukoCfVh56W1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842607935763-uh6rvqomikh9sesvetbobkcb7udog5oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
